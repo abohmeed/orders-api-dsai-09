@@ -5,6 +5,7 @@ description = "DSAI course lab: small FastAPI orders service with sqlite"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+  "fastapi-sqlite-search-helper>=0.1.0",
   "fastapi>=0.115.0",
   "uvicorn[standard]>=0.32.0",
 ]
