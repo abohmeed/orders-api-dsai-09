@@ -1,0 +1,11 @@
+# DSAI orders-api lab pins (2026-11-08).
+[tools]
+python = "3.13.18"
+terraform = "1.17.1"
+uv = "0.13.7"
+semgrep = "1.184.0"
+gitleaks = "8.30.1"
+checkov = "3.4.3"
+osv-scanner = "2.7.0"
+tflint = "0.65.0"
+pre-commit = "4.7.0"
